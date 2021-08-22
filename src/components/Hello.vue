@@ -11,7 +11,7 @@ export default {
   data () {
     return {
       msg: 'Welcome, ',
-	  zulu: 'By zulu 2021'
+	  zulu: 'by zulu 2021'
     }
   }
 }
